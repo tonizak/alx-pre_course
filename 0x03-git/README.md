@@ -1,2 +1,1 @@
-Git project
-
+first directory
